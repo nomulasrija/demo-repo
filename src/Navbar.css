@@ -1,0 +1,12 @@
+.nav-link:hover{
+    background-color: rgb(144, 138, 138);
+}
+.nav-link{
+    color: azure;
+}
+.bunty:hover{
+    color: gold;
+}
+.bunty{
+    color: white;
+}
